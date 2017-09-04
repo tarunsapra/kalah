@@ -3,7 +3,8 @@ Kalah game using spring boot with REST endpoints.
 
 The backend services are implemented and tested having REST endpoints.
 
-To initialize the game - localhost:8080/initialize
+To initialize the game - localhost:8080/initialize 
+
 To reset the game - localhost:8080/reset
 
 Game's core logic in the class PitService.java (process method) 
