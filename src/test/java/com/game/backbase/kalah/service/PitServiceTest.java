@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 import static org.junit.Assert.assertEquals;
+//test code for the github jira cloud integration
 
 /**
  * Created by tarunsapra on 03/09/2017.
